@@ -3,5 +3,6 @@
   "id": "figma-local-prototype-exporter",
   "api": "1.0.0",
   "main": "code.ts",
-  "ui": "ui.html"
+  "ui": "ui.html",
+  "editorType": ["figma"]
 }
